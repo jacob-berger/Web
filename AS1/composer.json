@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/AS1",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jberg",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "Illuminate/Support": "^7.6",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}

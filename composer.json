@@ -1,0 +1,12 @@
+{
+    "name": "jberg/web",
+    "authors": [
+        {
+            "name": "jacob-berger",
+            "email": "jberger8@eagles.ewu.edu"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^7.19"
+    }
+}
